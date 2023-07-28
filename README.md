@@ -7,6 +7,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinjoa&layout=donut&theme=tokyonight)
 
 
+🔭 I’m currently working on ...
+- investigate, learn and test new programming languages;
+- investigate, learn and test algorithms used in cybersecurity applications;
+- language processing, I am resuming an old project related to a programming language to teach algorithms;
+
+
 <!--
 **pinjoa/pinjoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
