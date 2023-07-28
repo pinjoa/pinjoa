@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Welcome to my github profile! 
 
-# I share in this repository a set of public projects related to some activities and projects developed.  
+### I share in this repository a set of public projects related to some activities and projects developed.  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinjoa&layout=donut&theme=tokyonight)
 
