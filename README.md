@@ -7,6 +7,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinjoa&layout=donut&theme=tokyonight)
 
 
+🤔 I’m interested in ...
+- design software, software analyses and programming;
+- back-end related software;
+- cyber security, learn and investigate the different roles; 
+
 🔭 I’m currently working on ...
 - investigate, learn and test new programming languages;
 - investigate, learn and test algorithms used in cybersecurity applications;
