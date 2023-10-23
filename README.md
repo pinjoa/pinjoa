@@ -8,14 +8,15 @@
 
 
 🤔 I’m interested in ...
-- design software, software analyses and programming;
+- software architecture/design, software analyses and programming;
 - back-end related software;
-- cyber security, learn and investigate the different roles; 
+- cyber security, learning and investigating different approaches; 
 
 🔭 I’m currently working on ...
 - investigate, learn and test new programming languages;
 - investigate, learn and test algorithms used in cybersecurity applications;
 - language processing, I am resuming an old project related to a programming language to teach algorithms;
+- test and understand Kali Linux tools better;
 
 
 <!--
