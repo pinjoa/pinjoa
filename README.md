@@ -7,8 +7,9 @@
 
 🤔 I’m interested in ...
 - software architecture/design, software analyses and programming;
-- back-end related software;
-- cyber security, learning and investigating different approaches; 
+- back-end related software/architectures;
+- cyber security, learning and investigating different approaches;
+- Web3 and blockchain technology;
 
 
 🔭 I’m currently working on ...
