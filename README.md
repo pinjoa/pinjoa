@@ -10,6 +10,7 @@
 - back-end related software and architectures;
 - cyber security, learning and investigating different approaches;
 - Web3 and blockchain technology;
+- data science related subjects;
 
 
 🔭 I’m currently working on ...
