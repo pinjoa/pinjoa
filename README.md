@@ -6,18 +6,18 @@
 
 
 🤔 I’m interested in ...
-- software architecture, design, analyses and programming;
-- back-end related software and architectures;
-- cyber security, learning and investigating different approaches;
+- Software architecture, design, analyses and programming;
+- Back-end related software and architectures;
+- Cyber security, learning and investigating different approaches;
 - Web3 and blockchain technology;
-- data science related subjects;
+- Data science related subjects;
 
 
 🔭 I’m currently working on ...
-- investigate, learn and test new programming languages;
-- investigate, learn and test algorithms used in cybersecurity applications;
-- language processing, I am resuming an old project related to a programming language to teach algorithms;
-- test and understand Kali Linux tools better;
+- Investigate, learn and test new programming languages;
+- Investigate, learn and test algorithms used in cybersecurity applications;
+- Language processing, I am resuming an old project related to a programming language to teach algorithms;
+- Test and better understand the different operating systems for security purposes.
 
 
 ⚡ Stats ...
