@@ -6,18 +6,18 @@
 
 
 🤔 I’m interested in ...
+- Data science related subjects;
 - Software architecture, design, analyses and programming;
 - Back-end related software and architectures;
 - Cyber security, learning and investigating different approaches;
 - Web3 and blockchain technology;
-- Data science related subjects;
 
 
 🔭 I’m currently working on ...
 - Investigate, learn and test new programming languages;
 - Investigate, learn and test algorithms used in cybersecurity applications;
-- Language processing, I am resuming an old project related to a programming language to teach algorithms;
 - Test and better understand the different operating systems for security purposes.
+- Language processing, I am resuming an old project related to a programming language to teach algorithms;
 
 
 ⚡ Stats ...
